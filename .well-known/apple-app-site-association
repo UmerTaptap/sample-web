@@ -1,0 +1,29 @@
+{
+  "applinks":{
+    "apps":[
+       
+    ],
+    "details":[
+      {
+        "appIDs":[
+          "K55YC5ZQUL.app.afinitreeapp.com"
+        ],
+        "components":[
+            {
+                "/":"*",
+                "comment":"allow all"
+            }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [ "K55YC5ZQUL.app.afinitreeapp.com" ]
+  },
+
+
+  "appclips": {
+      "apps": [ "K55YC5ZQUL.app.afinitreeapp.com" ]
+  }
+
+}

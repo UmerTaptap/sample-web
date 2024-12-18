@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.afinitreeapp.com",
+      "sha256_cert_fingerprints":
+      ["2A:23:4F:AD:5D:3E:76:E9:8C:4D:E6:5D:82:05:7B:EF:BE:AA:4B:83:BD:14:93:1F:AC:EA:37:46:DB:A3:C9:F4"]
+    }
+  }]
